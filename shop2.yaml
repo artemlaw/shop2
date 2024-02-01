@@ -8,7 +8,7 @@ categories:
     name: USB-флешки
 goods:
   - id: 111
-    category: 300
+    category: 224
     model: samsung/galaxy/s21
     name: Смартфон Samsung Galaxy S21 128GB (черный)
     price: 90000
@@ -20,7 +20,7 @@ goods:
       Встроенная_память: 128
       Цвет: черный
   - id: 222
-    category: 300
+    category: 224
     model: samsung/galaxy/a52
     name: Смартфон Samsung Galaxy A52 64GB (синий)
     price: 45000
@@ -32,7 +32,7 @@ goods:
       Встроенная_память: 64
       Цвет: синий
   - id: 333
-    category: 300
+    category: 224
     model: apple/iphone/13
     name: Смартфон Apple iPhone 13 256GB (золотой)
     price: 120000
@@ -44,7 +44,7 @@ goods:
       Встроенная_память: 256
       Цвет: золотой
   - id: 444
-    category: 20
+    category: 15
     model: airpods/pro
     name: Беспроводные наушники Apple AirPods Pro
     price: 25000
