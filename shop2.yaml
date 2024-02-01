@@ -54,7 +54,7 @@ goods:
       Тип: внутриканальные
       Активное_шумоподавление: "есть"
       Цвет: белый
-  - id: 666
+  - id: 777
     category: 224
     model: apple/iphone/xs-max
     name: Смартфон Apple iPhone XS Max 512GB (золотистый)
