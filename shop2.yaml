@@ -1,0 +1,66 @@
+shop: "МагазинТехники"
+categories:
+  - id: 300
+    name: "Смартфоны"
+  - id: 20
+    name: "Аксессуары"
+  - id: 2
+    name: "USB-флешки"
+goods:
+  - id: 111
+    category: 300
+    model: "samsung/galaxy/s21"
+    name: "Смартфон Samsung Galaxy S21 128GB (черный)"
+    price: 90000
+    price_rrc: 95000
+    quantity: 12
+    parameters:
+      Диагональ: 6.2
+      Разрешение: "2400x1080"
+      Встроенная_память: 128
+      Цвет: "черный"
+  - id: 222
+    category: 300
+    model: "samsung/galaxy/a52"
+    name: "Смартфон Samsung Galaxy A52 64GB (синий)"
+    price: 45000
+    price_rrc: 49990
+    quantity: 8
+    parameters:
+      Диагональ: 6.5
+      Разрешение: "2400x1080"
+      Встроенная_память: 64
+      Цвет: "синий"
+  - id: 333
+    category: 300
+    model: "apple/iphone/13"
+    name: "Смартфон Apple iPhone 13 256GB (золотой)"
+    price: 120000
+    price_rrc: 129990
+    quantity: 5
+    parameters:
+      Диагональ: 6.1
+      Разрешение: "2532x1170"
+      Встроенная_память: 256
+      Цвет: "золотой"
+  - id: 444
+    category: 20
+    model: "airpods/pro"
+    name: "Беспроводные наушники Apple AirPods Pro"
+    price: 25000
+    price_rrc: 27990
+    quantity: 15
+    parameters:
+      Тип: "внутриканальные"
+      Активное_шумоподавление: "есть"
+      Цвет: "белый"
+  - id: 555
+    category: 2
+    model: "sandisk/ultra-usb"
+    name: "USB-флешка SanDisk Ultra USB 3.0 64GB"
+    price: 1500
+    price_rrc: 1990
+    quantity: 20
+    parameters:
+      Объем_памяти: 64
+      Интерфейс: "USB 3.0"
