@@ -54,16 +54,6 @@ goods:
       Тип: внутриканальные
       Активное_шумоподавление: "есть"
       Цвет: белый
-  - id: 555
-    category: 2
-    model: sandisk/ultra-usb
-    name: USB-флешка SanDisk Ultra USB 3.0 64GB
-    price: 1500
-    price_rrc: 1990
-    quantity: 20
-    parameters:
-      Объем_памяти: 64
-      Интерфейс: USB 3.0
   - id: 666
     category: 224
     model: apple/iphone/xs-max
